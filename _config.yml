@@ -35,7 +35,7 @@ footer:
   copyright: Mr. Yi Dong
   location: Location
   social: Around the Web
-  contact: Contact Info
+  info: Contact Info
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,7 +52,7 @@ address:
   - line: Ithaca, NY 14850
 
 # Credits content
-contact: 
+info: 
   - line: yd2279@nyu.edu
   - line: +1 918-613-3055
   
