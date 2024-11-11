@@ -1,11 +1,43 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2023-12-01
+img: Lululemon.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: December 2023
+client: Lululemon
+category: Supply Chain Management Analysis
+description: |
+  <div class="slideshow"style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <div><img src="img/portfolio/project3/1.png" alt="Project 1 Slide 1"></div>
+    <div><img src="img/portfolio/project3/2.png" alt="Project 1 Slide 2"></div>
+    <div><img src="img/portfolio/project3/3.png" alt="Project 1 Slide 3"></div>
+    <div><img src="img/portfolio/project3/4.png" alt="Project 1 Slide 4"></div>
+    <div><img src="img/portfolio/project3/5.png" alt="Project 1 Slide 5"></div>
+    <div><img src="img/portfolio/project3/6.png" alt="Project 1 Slide 6"></div>
+    <div><img src="img/portfolio/project3/7.png" alt="Project 1 Slide 7"></div>
+    <div><img src="img/portfolio/project3/8.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/9.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/10.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/11.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/12.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/13.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/14.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/15.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/16.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/17.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/18.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/19.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/20.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/21.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/22.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/23.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/24.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/25.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/26.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/27.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/28.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/29.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project3/30.png" alt="Project 1 Slide 8"></div>
+  </div>
 ---
