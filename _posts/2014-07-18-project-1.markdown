@@ -1,16 +1,18 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2024-10-29
 img: Aveva.png
 alt: image-alt
-project-date: April 2014
+project-date: October 2024
 client: Start Bootstrap
-category: Web Development
+category: The EcoTech Emerge 2024 Challenge
 description: |
   <div class="slideshow">
-    <div><img src="assets/images/slide1.png" alt="Slide 1"></div>
-    <div><img src="assets/images/slide2.png" alt="Slide 2"></div>
-    <div><img src="assets/images/slide3.png" alt="Slide 3"></div>
+    <div><img src="img/portfolio/project1/1.png" alt="Project 1 Slide 1"></div>
+    <div><img src="img/portfolio/project1/2.png" alt="Project 1 Slide 2"></div>
+    <div><img src="img/portfolio/project1/3.png" alt="Project 1 Slide 3"></div>
+    <div><img src="img/portfolio/project1/4.png" alt="Project 1 Slide 4"></div>
+    <div><img src="img/portfolio/project1/5.png" alt="Project 1 Slide 5"></div>
   </div>
 ---
