@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2023-12-01
-img: Lululemon.png
+img: lululemon.png
 alt: image-alt
 project-date: December 2023
 client: lululemon
