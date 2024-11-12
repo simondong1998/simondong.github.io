@@ -1,11 +1,24 @@
 ---
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: safe.png
+modal-id: 4
+date: 2022-05-01
+img: Brinker.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: May 2022
+client: Brinker International
+category: Predictive Analysis with Data Visualization
+description: |
+  <div class="slideshow"style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <div><img src="img/portfolio/project5/1.png" alt="Project 1 Slide 1"></div>
+    <div><img src="img/portfolio/project5/2.png" alt="Project 1 Slide 2"></div>
+    <div><img src="img/portfolio/project5/3.png" alt="Project 1 Slide 3"></div>
+    <div><img src="img/portfolio/project5/4.png" alt="Project 1 Slide 4"></div>
+    <div><img src="img/portfolio/project5/5.png" alt="Project 1 Slide 5"></div>
+    <div><img src="img/portfolio/project5/6.png" alt="Project 1 Slide 6"></div>
+    <div><img src="img/portfolio/project5/7.png" alt="Project 1 Slide 7"></div>
+    <div><img src="img/portfolio/project5/8.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project5/9.png" alt="Project 1 Slide 9"></div>
+    <div><img src="img/portfolio/project5/10.png" alt="Project 1 Slide 10"></div>
+    <div><img src="img/portfolio/project5/11.png" alt="Project 1 Slide 11"></div>
+  </div>
 ---
