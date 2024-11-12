@@ -1,11 +1,23 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2021-12-01
+img: zara.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Dec 2021
+client: Zara
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: |
+  <div class="slideshow"style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <div><img src="img/portfolio/project6/1.png" alt="Project 1 Slide 1"></div>
+    <div><img src="img/portfolio/project6/2.png" alt="Project 1 Slide 2"></div>
+    <div><img src="img/portfolio/project6/3.png" alt="Project 1 Slide 3"></div>
+    <div><img src="img/portfolio/project6/4.png" alt="Project 1 Slide 4"></div>
+    <div><img src="img/portfolio/project6/5.png" alt="Project 1 Slide 5"></div>
+    <div><img src="img/portfolio/project6/6.png" alt="Project 1 Slide 6"></div>
+    <div><img src="img/portfolio/project6/7.png" alt="Project 1 Slide 7"></div>
+    <div><img src="img/portfolio/project6/8.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project6/9.png" alt="Project 1 Slide 9"></div>
+    <div><img src="img/portfolio/project6/10.png" alt="Project 1 Slide 10"></div>
+  </div>
 ---
