@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2022-05-01
-img: Brinker.png
+img: brinker.png
 alt: image-alt
 project-date: May 2022
 client: Brinker International
