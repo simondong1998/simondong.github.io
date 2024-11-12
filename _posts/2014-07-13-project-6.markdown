@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2021-12-01
-img: zara.png
+img: Zara.png
 alt: image-alt
 project-date: Dec 2021
 client: Zara
