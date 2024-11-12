@@ -5,39 +5,30 @@ date: 2024-04-01
 img: HR.png
 alt: image-alt
 project-date: April 2024
-client: Human Resource Startup- NEXTGEN
+client: Human Resource Startup Project- NEXTGEN
 category: Human Resource Management Engineering
 description: |
   <div class="slideshow"style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <div><img src="img/portfolio/project3/1.png" alt="Project 1 Slide 1"></div>
-    <div><img src="img/portfolio/project3/2.png" alt="Project 1 Slide 2"></div>
-    <div><img src="img/portfolio/project3/3.png" alt="Project 1 Slide 3"></div>
-    <div><img src="img/portfolio/project3/4.png" alt="Project 1 Slide 4"></div>
-    <div><img src="img/portfolio/project3/5.png" alt="Project 1 Slide 5"></div>
-    <div><img src="img/portfolio/project3/6.png" alt="Project 1 Slide 6"></div>
-    <div><img src="img/portfolio/project3/7.png" alt="Project 1 Slide 7"></div>
-    <div><img src="img/portfolio/project3/8.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/9.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/10.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/11.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/12.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/13.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/14.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/15.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/16.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/17.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/18.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/19.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/20.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/21.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/22.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/23.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/24.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/25.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/26.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/27.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/28.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/29.png" alt="Project 1 Slide 8"></div>
-    <div><img src="img/portfolio/project3/30.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/1.png" alt="Project 1 Slide 1"></div>
+    <div><img src="img/portfolio/project4/2.png" alt="Project 1 Slide 2"></div>
+    <div><img src="img/portfolio/project4/3.png" alt="Project 1 Slide 3"></div>
+    <div><img src="img/portfolio/project4/4.png" alt="Project 1 Slide 4"></div>
+    <div><img src="img/portfolio/project4/5.png" alt="Project 1 Slide 5"></div>
+    <div><img src="img/portfolio/project4/6.png" alt="Project 1 Slide 6"></div>
+    <div><img src="img/portfolio/project4/7.png" alt="Project 1 Slide 7"></div>
+    <div><img src="img/portfolio/project4/8.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/9.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/10.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/11.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/12.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/13.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/14.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/15.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/16.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/17.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/18.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/19.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/20.png" alt="Project 1 Slide 8"></div>
+    <div><img src="img/portfolio/project4/21.png" alt="Project 1 Slide 8"></div>
   </div>
 ---
