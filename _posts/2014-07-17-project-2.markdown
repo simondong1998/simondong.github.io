@@ -5,7 +5,7 @@ date: 2023-12-01
 img: Lululemon.png
 alt: image-alt
 project-date: December 2023
-client: Lululemon
+client: lululemon
 category: Supply Chain Management Analysis
 description: |
   <div class="slideshow"style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
